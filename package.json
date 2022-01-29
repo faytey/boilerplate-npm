@@ -1,6 +1,6 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author": "Faith M. Roberts",
+	"author": "Faith Mama Roberts",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
